@@ -1,0 +1,43 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; Venturimeter is used to measure average velocity&#10;() True&#10;() False&#10;&#10;&gt;&gt; Angle of contraction is more than angle of diversion&#10;() True&#10;() False&#10;&#10;&gt;&gt; The inlet length of the Venturimeterâs greater than outlet pipe&#10;() True&#10;() False&#10;&#10;&gt;&gt; Actual discharge is obtained by (A)= a x h/t&#10;() True&#10;() False&#10;&#10;&gt;&gt; Coefficient of discharge is calculated by C_d =Q_a/Q_t&#10;() True&#10;() False&#10;&#10;">
+<p>&gt;&gt; Venturimeter is used to measure average velocity</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Angle of contraction is more than angle of diversion</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The inlet length of the Venturimeterâs greater than outlet pipe</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Actual discharge is obtained by (A)= a x h/t</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Coefficient of discharge is calculated by C_d =Q_a/Q_t</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

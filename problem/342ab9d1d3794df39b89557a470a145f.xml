@@ -1,0 +1,35 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; Bernoulli’s equation holds good for non ideal fluids&#10;() True&#10;() False&#10;&#10;&gt;&gt; The pressure head is given by&#10;() P/γ&#10;() V2/2g&#10;&#10;&gt;&gt; Incompressible ideal fluids are fluids which have constant density.&#10;() True&#10;() False&#10;&#10;&gt;&gt; Bernoulli’s theorem deals with law conservation of momentum&#10;() True&#10;() False&#10;&#10;Read More">
+<p>&gt;&gt; Bernoulli’s equation holds good for non ideal fluids</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The pressure head is given by</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">P/γ</choice>
+    <choice correct="false">V2/2g</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Incompressible ideal fluids are fluids which have constant density.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Bernoulli’s theorem deals with law conservation of momentum</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Read More</p>
+</problem>
