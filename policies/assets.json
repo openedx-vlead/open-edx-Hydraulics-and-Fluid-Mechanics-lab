@@ -1,1 +1,26 @@
-{}
+{
+    "fluid-dynamics.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EERC03", 
+            "name": "fluid-dynamics.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "fluid-dynamics.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+EERC03+Anytime+type@asset+block@fluid-dynamics.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "EERC03", 
+            "thumbnail", 
+            "fluid-dynamics.jpg", 
+            null
+        ]
+    }
+}

@@ -1,5 +1,5 @@
-<problem display_name="Multiple Choice" markdown="&gt;&gt; Bernoulli’s equation holds good for non ideal fluids&#10;() True&#10;() False&#10;&#10;&gt;&gt; The pressure head is given by&#10;() P/γ&#10;() V2/2g&#10;&#10;&gt;&gt; Incompressible ideal fluids are fluids which have constant density.&#10;() True&#10;() False&#10;&#10;&gt;&gt; Bernoulli’s theorem deals with law conservation of momentum&#10;() True&#10;() False&#10;&#10;Read More">
-<p>&gt;&gt; Bernoulli’s equation holds good for non ideal fluids</p>
+<problem display_name="Multiple Choice" markdown="null">
+<p>1. Bernoulli’s equation holds good for non ideal fluids</p>
 <multiplechoiceresponse>
   <choicegroup type="MultipleChoice">
     <choice correct="false">True</choice>
@@ -7,7 +7,7 @@
   </choicegroup>
 </multiplechoiceresponse>
 
-<p>&gt;&gt; The pressure head is given by</p>
+<p>2. The pressure head is given by</p>
 <multiplechoiceresponse>
   <choicegroup type="MultipleChoice">
     <choice correct="false">P/γ</choice>
@@ -15,7 +15,7 @@
   </choicegroup>
 </multiplechoiceresponse>
 
-<p>&gt;&gt; Incompressible ideal fluids are fluids which have constant density.</p>
+<p>3. Incompressible ideal fluids are fluids which have constant density.</p>
 <multiplechoiceresponse>
   <choicegroup type="MultipleChoice">
     <choice correct="false">True</choice>
@@ -23,7 +23,7 @@
   </choicegroup>
 </multiplechoiceresponse>
 
-<p>&gt;&gt; Bernoulli’s theorem deals with law conservation of momentum</p>
+<p>4. Bernoulli’s theorem deals with law conservation of momentum</p>
 <multiplechoiceresponse>
   <choicegroup type="MultipleChoice">
     <choice correct="false">True</choice>
@@ -31,5 +31,5 @@
   </choicegroup>
 </multiplechoiceresponse>
 
-<p>Read More</p>
+  <p><a href="http://eerc03-iiith.virtual-labs.ac.in/exp1/1.Bernoullis_experiment.pdf">Read More</a></p>
 </problem>

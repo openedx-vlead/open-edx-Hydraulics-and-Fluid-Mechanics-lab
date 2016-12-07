@@ -1,0 +1,44 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Q1. Flow to be laminar the Reynolds number should be greater than 2000.&lt;&lt;&#10;()True&#10;()False&#10;&#10;&gt;&gt;Q2. For flow to be turbulent the flow should be more than 400.&lt;&lt;&#10;()True&#10;()False&#10;&#10;&gt;&gt;Q3. Concept of Reynolds number is used in open channels.&lt;&lt;&#10;()True&#10;False&#10;&#10;&gt;&gt;Q4. The behavior of path lines is laminar flow.&lt;&lt;&#10;()True&#10;()False&#10;&#10;&gt;&gt;Q5. If the Reynolds number is in between 2000 and 4000 then the flow is.&lt;&lt;&#10;()True&#10;()False&#10;&#10;Read More">
+<p>Q1. Flow to be laminar the Reynolds number should be greater than 2000.</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q1. Flow to be laminar the Reynolds number should be greater than 2000." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q2. For flow to be turbulent the flow should be more than 400.</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q2. For flow to be turbulent the flow should be more than 400." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q3. Concept of Reynolds number is used in open channels.</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q3. Concept of Reynolds number is used in open channels." type="MultipleChoice">
+    <choice correct="false">True</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>False</p>
+
+<p>Q4. The behavior of path lines is laminar flow.</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q4. The behavior of path lines is laminar flow." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q5. If the Reynolds number is in between 2000 and 4000 then the flow is.</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q5. If the Reynolds number is in between 2000 and 4000 then the flow is." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Read More</p>
+</problem>
