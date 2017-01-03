@@ -1,0 +1,15 @@
+<course advertised_start="Anytime" course_image="fluid-dynamics.jpg" display_name="Hydraulics and Fluid Mechanics" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-29T00:00:00+00:00&quot;">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="_Bernoullis_Experiment"/>
+  <chapter url_name="Venturi_Meter_Experiment"/>
+  <chapter url_name="Orifices_Experiment"/>
+  <chapter url_name="Mouthpieces_Experiment"/>
+  <chapter url_name="Weirs_Experiment"/>
+  <chapter url_name="Channels_Experiment"/>
+  <chapter url_name="Reynolds_Experiment"/>
+  <chapter url_name="Vorticess_Experiment"/>
+  <chapter url_name="Jets_Experiment"/>
+  <chapter url_name="Turbines_Experiment"/>
+  <chapter url_name="4fe12f053d744176a8b1976eb444d58e"/>
+  <wiki slug="IIITH.eerc03.Anytime"/>
+</course>
