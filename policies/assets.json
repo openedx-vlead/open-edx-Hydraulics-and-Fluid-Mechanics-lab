@@ -12,7 +12,7 @@
         }, 
         "displayname": "fluid-dynamics.jpg", 
         "filename": "asset-v1:IIIT-Hyderabad+EERC03+Anytime+type@asset+block@fluid-dynamics.jpg", 
-        "import_path": null, 
+        "import_path": "fluid-dynamics.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
