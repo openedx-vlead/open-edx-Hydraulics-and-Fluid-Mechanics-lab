@@ -1,43 +1,38 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1.Venturi meter is used to measure average velocity&lt;&lt;&#10;() True&#10;() False&#10;&#10;&gt;&gt;2. Angle of contraction is more than angle of diversion&lt;&lt;&#10;() True&#10;() False&#10;&#10;&gt;&gt;3. The inlet length of the Venturimeter's greater than outlet pipe&lt;&lt;&#10;() True&#10;() False&#10;&#10;&gt;&gt;4. Actual discharge is obtained by (A)= a x h/t&lt;&lt;&#10;() True&#10;() False&#10;&#10;&gt;&gt;5. Coefficient of discharge is calculated by C_d =Q_a/Q_t&lt;&lt;&#10;() True&#10;() False&#10;&lt;a target=&quot;_blank&quot; href=&quot;http://eerc03-iiith.virtual-labs.ac.in/exp5/2. Venturi_meter.pdf&quot;&gt;Read More&lt;/a&gt;">
-<p>1.Venturi meter is used to measure average velocity</p>
-<multiplechoiceresponse>
-  <choicegroup label="1.Venturi meter is used to measure average velocity" type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. Angle of contraction is more than angle of diversion</p>
-<multiplechoiceresponse>
-  <choicegroup label="2. Angle of contraction is more than angle of diversion" type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. The inlet length of the Venturimeter's greater than outlet pipe</p>
-<multiplechoiceresponse>
-  <choicegroup label="3. The inlet length of the Venturimeter's greater than outlet pipe" type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. Actual discharge is obtained by (A)= a x h/t</p>
-<multiplechoiceresponse>
-  <choicegroup label="4. Actual discharge is obtained by (A)= a x h/t" type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. Coefficient of discharge is calculated by C_d =Q_a/Q_t</p>
-<multiplechoiceresponse>
-  <choicegroup label="5. Coefficient of discharge is calculated by C_d =Q_a/Q_t" type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<a target="_blank" href="http://eerc03-iiith.virtual-labs.ac.in/exp5/2. Venturi_meter.pdf">Read More</a>
+  <p>1.Venturi meter is used to measure average velocity</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1.Venturi meter is used to measure average velocity" type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Angle of contraction is more than angle of diversion</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2. Angle of contraction is more than angle of diversion" type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. The inlet length of the Venturimeter's greater than outlet pipe</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3. The inlet length of the Venturimeter's greater than outlet pipe" type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. Actual discharge is obtained by (A)= a x h/t</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4. Actual discharge is obtained by (A)= a x h/t" type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Coefficient of discharge is calculated by C_d =Q_a/Q_t</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5. Coefficient of discharge is calculated by C_d =Q_a/Q_t" type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <a target="_blank" href="http://eerc03-iiith.virtual-labs.ac.in/exp5/2. Venturi_meter.pdf">Read More</a>
 </problem>

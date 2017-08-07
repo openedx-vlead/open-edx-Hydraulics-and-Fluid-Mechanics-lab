@@ -1,35 +1,33 @@
 <problem display_name="Multiple Choice" markdown="null">
-<p>1. Bernoulli’s equation holds good for non ideal fluids</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. The pressure head is given by</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">P/γ</choice>
-    <choice correct="false">V2/2g</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. Incompressible ideal fluids are fluids which have constant density.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. Bernoulli’s theorem deals with law conservation of momentum</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-  <p><a href="http://eerc03-iiith.virtual-labs.ac.in/exp1/1.Bernoullis_experiment.pdf">Read More</a></p>
+  <p>1. Bernoulli’s equation holds good for non ideal fluids</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. The pressure head is given by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">P/γ</choice>
+      <choice correct="false">V2/2g</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. Incompressible ideal fluids are fluids which have constant density.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. Bernoulli’s theorem deals with law conservation of momentum</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>
+    <a href="http://eerc03-iiith.virtual-labs.ac.in/exp1/1.Bernoullis_experiment.pdf">Read More</a>
+  </p>
 </problem>
