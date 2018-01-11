@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "EERC03", 
+            "course": "civil23", 
             "name": "fluid-dynamics.jpg", 
-            "org": "IIIT-Hyderabad", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "fluid-dynamics.jpg", 
-        "filename": "asset-v1:IIIT-Hyderabad+EERC03+Anytime+type@asset+block@fluid-dynamics.jpg", 
+        "filename": "asset-v1:Virtual-Labs+civil23+Anytime+type@asset+block@fluid-dynamics.jpg", 
         "import_path": "fluid-dynamics.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-Hyderabad", 
-            "EERC03", 
+            "Virtual-Labs", 
+            "civil23", 
             "thumbnail", 
             "fluid-dynamics.jpg", 
             null
